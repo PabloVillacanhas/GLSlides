@@ -21,7 +21,7 @@ A small trip from vertex to massive data representation
 
 ---
 
-# Wich are GL (Graphic Libraries)
+# Which are GL (Graphic Libraries)
 
 - WebGL
 - OpenGL
